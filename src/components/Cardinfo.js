@@ -12,4 +12,4 @@ function CardInfo() {
   );
 }
 
-export default CardInfo;
+export default CardInfo;
